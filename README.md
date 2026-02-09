@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Manoj Kumar
 
-<!--
-**rmkjnm/rmkjnm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics / Embedded / Systems Enthusiast  
+🛠️ STM32 • C • Linux • Docker • Backend  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- I work on **embedded systems, low-level C, and backend tools**
+- Interested in **hardware-software co-design**
+- Currently learning computer organization, fpga.
+- ongoing project Firebase Backend implementation, API Integration, and AI/ML Classification Models of kyzen (a new version of parental control paradigm)
+
+---
+
+## 🧰 Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
+
+---
+
+## 📌 Featured Projects
+- 🔧 **stm32-projects** – Bare-metal & HAL experiments
+- 🍽️ **restaurant-reservations** – Full-stack JS app
+- 📄 **my-swagger-docs** – API documentation hosting
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=rmkjnm&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with me
+
+- Email: mnjkmr321@gmail.com
