@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manoj Kumar
 
-🎓 Electronics / Embedded / Systems Enthusiast  
+🎓 Electronics / Embedded Systems Enthusiast  
 🛠️ STM32 • C • Linux • Docker • Backend  
 📍 India  
 
